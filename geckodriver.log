@@ -1,0 +1,50 @@
+1668096275484	geckodriver	INFO	Listening on 127.0.0.1:54345
+1668096278488	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "log-level=3" "--remote-debugging-port" "54346" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ALI-NAQI\\AppData\\Local\\Temp\\rust_mozprofilep5SkID"
+1668096278793	Marionette	INFO	Marionette enabled
+1668096278797	Marionette	INFO	Listening on port 54355
+WebDriver BiDi listening on ws://127.0.0.1:54346
+Read port: 54355
+1668096279108	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ALI-NAQI\\AppData\\Local\\Temp\\rust_mozprofilep5SkID\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54346/devtools/browser/1743654f-277e-4da0-aef3-fbfb6e7399b1
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.66bbdd09.js, line 7: Error: ApiError: https://twitter.com/i/api/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+1668096367491	Marionette	INFO	Stopped listening on port 54355
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+g-level=3" "--remote-debugging-port" "54481" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ALI-NAQI\\AppData\\Local\\Temp\\rust_mozprofilepXGryb"
+1668096326639	Marionette	INFO	Marionette enabled
+1668096326645	Marionette	INFO	Listening on port 54510
+Read port: 54510
+WebDriver BiDi listening on ws://127.0.0.1:54481
+1668096326798	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ALI-NAQI\\AppData\\Local\\Temp\\rust_mozprofilepXGryb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54481/devtools/browser/e3921182-c8c6-43a5-ba22-ea07dd723792
+1668096354027	geckodriver	INFO	Listening on 127.0.0.1:55008
+1668096357042	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "log-level=3" "--remote-debugging-port" "55009" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ALI-NAQI\\AppData\\Local\\Temp\\rust_mozprofiletSaE5P"
+1668096357386	Marionette	INFO	Marionette enabled
+1668096357390	Marionette	INFO	Listening on port 55028
+Read port: 55028
+WebDriver BiDi listening on ws://127.0.0.1:55009
+1668096357493	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ALI-NAQI\\AppData\\Local\\Temp\\rust_mozprofiletSaE5P\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55009/devtools/browser/8629a223-7846-436e-bc12-4bca214b57f5
+1668586581198	geckodriver	INFO	Listening on 127.0.0.1:55177
+1668586584212	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "log-level=3" "--remote-debugging-port" "55178" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ALI-NAQI\\AppData\\Local\\Temp\\rust_mozprofileWZgghN"
+1668586722898	geckodriver	INFO	Listening on 127.0.0.1:55278
+1668586725906	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "log-level=3" "--remote-debugging-port" "55279" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ALI-NAQI\\AppData\\Local\\Temp\\rust_mozprofiletl3VKL"
+1668586726204	Marionette	INFO	Marionette enabled
+1668586726208	Marionette	INFO	Listening on port 55288
+Read port: 55288
+WebDriver BiDi listening on ws://127.0.0.1:55279
+1668586726317	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ALI-NAQI\\AppData\\Local\\Temp\\rust_mozprofiletl3VKL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55279/devtools/browser/2c88d812-9c49-41d4-9f92-0ae57e288ab5
+JavaScript error: https://twitter.com/@ImranKhanPTI, line 139: ChunkLoadError: Loading chunk ondemand.emoji.en failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.emoji.en.bc5fb8d9.js)
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.f45ef479.js, line 7: Error: ApiError: https://twitter.com/i/api/1.1/jot/ces/p2 HTTP-403 codes:[1003] trace_ids:[null]
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.f45ef479.js, line 7: Error: ApiError: https://twitter.com/i/api/1.1/onboarding/sso_init.json HTTP-403 codes:[1003] trace_ids:[null]
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.f45ef479.js, line 7: Error: ApiError: https://twitter.com/i/1668586811967	RemoteAgent	WARN	TLS certificate errors will be ignored fJavaScript error:console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ALI-NAQI\\AppData\\Local\\Temp\\rust_moz1668586821145	Marionette	INFO	Stopped listening on port 55288
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+d listening on port 55372
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
